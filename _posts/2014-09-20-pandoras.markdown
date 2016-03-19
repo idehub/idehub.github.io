@@ -1,0 +1,10 @@
+---
+layout: default
+img: replaceme.png
+category: Services
+title: Pandoras - Devil's Drinking Game<br/>Cross-platform App
+description: |
+---
+This party game gives «Truth or Dare» a proper overhaul. We dare you to open Pandora’s Box…
+
+Break the ice, get to know each other, laugh, cry and take the party to a whole new level with this party booster of a drinking game!
