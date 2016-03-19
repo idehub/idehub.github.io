@@ -1,8 +1,8 @@
 ---
 layout: default
-img: replaceme.png
+img: pandoras.jpg
 category: Services
-title: Pandoras - Devil's Drinking Game<br/>Cross-platform App
+title: Pandoras - Devil's Drinking Game<br/><small>iOS and Android app</small>
 description: |
 ---
 This party game gives «Truth or Dare» a proper overhaul. We dare you to open Pandora’s Box…

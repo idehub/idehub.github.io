@@ -1,8 +1,8 @@
 ---
 layout: default
-img: replaceme
+img: reactnative.png
 category: Services
-title: React Native Google Analytics Bridge</br>Open Source Library
+title: React Native<br/>Google Analytics Bridge</br><small>Open Source Library</small>
 description: |
 ---
 **Google Analytics Bridge** is built to provide an easy interface to the native Google Analytics libraries on both **iOS** and **Android**.

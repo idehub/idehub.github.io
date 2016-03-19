@@ -1,8 +1,8 @@
 ---
 layout: default
-img: replaceme
+img: reactnative.png
 category: Services
-title: React Native Billing<br/>Open Source Library
+title: React Native Billing<br/><small>Open Source Library</small>
 description: |
 ---
   **React Native Billing** is built to provide an easy interface to InApp Billing on **Android**, accomplished by wrapping [anjlab's InApp Billing library](https://github.com/anjlab/android-inapp-billing-v3).
