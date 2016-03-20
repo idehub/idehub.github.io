@@ -1,6 +1,6 @@
 ---
 layout: default
-img: pandoras.jpg
+img: pandoras.png
 category: Services
 title: Pandoras - Devil's Drinking Game<br/><small>iOS and Android app</small>
 description: |
@@ -8,3 +8,6 @@ description: |
 This party game gives «Truth or Dare» a proper overhaul. We dare you to open Pandora’s Box…
 
 Break the ice, get to know each other, laugh, cry and take the party to a whole new level with this party booster of a drinking game!
+<br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.idehub.pandoras"><img class="app-store-badge" src="/img/services/google-play-badge.png" alt="Download from Google Play"/></a>
+<a href="https://itunes.apple.com/us/app/pandoras-devils-drinking-game/id873579821"><img class="app-store-badge" src="/img/services/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="Download from the iOS AppStore"/></a>
